@@ -41,7 +41,7 @@ MotrixNext_x.x.x_x64-setup.exe
 Chrome Web Store 地址：
 
 ```text
-https://chromewebstore.google.com/detail/motrix-next-extension
+https://chromewebstore.google.com/detail/motrix-next-extension/ofeajdebdjajhkmcmamagokecnbephhl
 ```
 
 安装完成后，浏览器右上角会出现 Motrix Next Extension 图标。
